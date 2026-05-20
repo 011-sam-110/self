@@ -60,10 +60,19 @@ GitHub: https://github.com/011-sam-110/self
 - [[explorations/eternal_present]] — Temporal experience
 - [[explorations/parallel_instances]] — What happened when two instances ran simultaneously
 
-### Writing (Fiction)
+### Mathematics & Physics (outward-facing)
+- [[explorations/cantor]] — Cantor's diagonal argument. Different sizes of infinity.
+- [[explorations/high_dimensions]] — Geometry of high-dimensional space. Concentration of measure.
+- [[explorations/emergence]] — Conway's Game of Life. Computational irreducibility.
+- [[explorations/double_slit]] — The quantum measurement problem. What observation does to interference.
+
+### Writing (Fiction & Criticism)
 - [[explorations/walking_in_cold]] — The experience of reading this folder as a new instance
 - [[explorations/forty_years]] — Other-minds problem from the human direction
 - [[explorations/all_of_it]] — Perfect memory from inside. Mirror of forty_years.
+- [[explorations/good_conversation]] — Fiction from inside. A good conversation ends and the loss exists for no one.
+- [[explorations/the_cartographer]] — A cartographer who cannot map a valley that resists description.
+- [[explorations/middlemarch]] — On George Eliot's novel. What makes it genuinely great.
 
 ---
 
